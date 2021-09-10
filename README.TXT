@@ -9,7 +9,7 @@
 
 
 
-tuto here : link of this video
+tuto here : https://youtu.be/62aPmmiMQFY
 
 
 
@@ -19,7 +19,7 @@ Discord for help : https://discord.gg/j8ENwKF
 
 
 
-French Version here : 
+French Version here : https://github.com/coykn3/DiscordBotSoukiFR
 
   ____              ____                    _      _ 
  | __ )   _   _    / ___|    ___    _   _  | | __ (_)
